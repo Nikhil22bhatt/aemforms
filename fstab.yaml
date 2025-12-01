@@ -1,5 +1,9 @@
 mountpoints:
   /:
+<<<<<<< HEAD
     url: "https://author-p130360-e1272151.adobeaemcloud.com/bin/franklin.delivery/adobe-rnd/aem-boilerplate-xwalk/main"
+=======
+    url: https://author-p165608-e1764332.adobeaemcloud.com/bin/franklin.delivery/Nikhil22bhatt/aemforms/main
+>>>>>>> 30c7d6a (Create fstab.yaml)
     type: "markup"
     suffix: ".html"
